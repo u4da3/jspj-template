@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/u4da3/jspj-template/issues"
   },
-  "homepage": "https://github.com/u4da3/jspj-template#readme"
+  "homepage": "https://github.com/u4da3/jspj-template#readme",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "eslint": "^5.3.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-prettier": "^2.6.2",
+    "gulp": "^4.0.0",
+    "mocha": "^5.2.0",
+    "prettier": "^1.14.2"
+  }
 }
