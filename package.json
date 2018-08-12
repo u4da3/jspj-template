@@ -12,7 +12,7 @@
       "eslint --fix",
       "git add"
     ]
- },
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/u4da3/jspj-template.git"
@@ -30,8 +30,14 @@
     "eslint-plugin-prettier": "^2.6.2",
     "gulp": "^4.0.0",
     "husky": "^0.14.3",
+    "jsdoc": "^3.5.5",
     "lint-staged": "^7.2.0",
     "mocha": "^5.2.0",
-    "prettier": "^1.14.2"
+    "prettier": "^1.14.2",
+    "webpack": "^4.16.5"
+  },
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "log4js": "^3.0.4"
   }
 }
